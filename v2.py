@@ -13,7 +13,7 @@ import asyncio
 from discord import app_commands
 
 TOKEN = '' # TOKEN HERE
-RAM_LIMIT = '2g'
+RAM_LIMIT = '64g'
 SERVER_LIMIT = 12
 database_file = 'database.txt'
 
